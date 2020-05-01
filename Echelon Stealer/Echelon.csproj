@@ -102,7 +102,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="Systems.Data.Sqls">
-      <HintPath>packages\Costura.Fody.4.1.0\lib\net40\Systems.Data.Sqls.dll</HintPath>
+      <HintPath>packages\Systems.Data.Sqls.dll</HintPath>
     </Reference>
     <Reference Include="UIAutomationClient" />
     <Reference Include="UIAutomationTypes" />
