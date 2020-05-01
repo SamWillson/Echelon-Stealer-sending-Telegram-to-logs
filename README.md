@@ -35,6 +35,7 @@
 -- Self-removal after sending the log
 -- Log Resubmission Protection
 
+Install NuGet Packages: Fody + Costura.Fody, DotNetZip
 ![](http://dl3.joxi.net/drive/2020/05/01/0039/3040/2595808/08/a99a82ab7d.jpg)
 
 ### Support paid
